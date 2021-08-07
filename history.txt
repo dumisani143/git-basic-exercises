@@ -1,0 +1,382 @@
+    1  ls
+    2  git --version
+    3  clear
+    4  git config --globaluser.name "Dumisani Lukhele"
+    5  git config --globaluser.name"Dumisani Lukhele"
+    6  git config --global user.name"Dumisani Lukhele"
+    7  git config --global user.name "Dumisani Lukhele"
+    8  git config --global user.email dp.lukhele@gmail.com
+    9  code
+   10  git config --global core.editor "code --wait"
+   11  git config --gloabal -e
+   12  git config --global -e
+   13  git config --global core.autocrlf true
+   14  ls
+   15  ls
+   16  cd projects
+   17  mkdir Moon
+   18  cd Moon
+   19  get init
+   20  git init
+   21  ls
+   22  ls -a
+   23  open.git
+   24  open .git
+   25  apt-get install posh-git
+   26  echo hello.txt
+   27  echo hello1.txt
+   28  ls
+   29  git status
+   30  echo hello.txt
+   31  echo hello1.txt
+   32  git status
+   33  git add hello.txt
+   34  git status
+   35  ls
+   36  ls
+   37  git status
+   38  git add hello.txt
+   39  git staus
+   40  git status
+   41  git --fm --catched hello.txt
+   42  git --rm hello.txt
+   43  git --rm --catched hello.txt
+   44  clear
+   45  git staus
+   46  git status
+   47  git rm --catched hello.txt
+   48  git rm --hello.txt
+   49  git rm hello.txt
+   50  git rm -f hello.txt
+   51  git status
+   52  ls
+   53  ls
+   54  clear
+   55  git add file1.txt
+   56  git status
+   57  git commit -m "inital commit."
+   58  ls
+   59  git status
+   60  code
+   61  git init
+   62  ls
+   63  exit
+   64  git init
+   65  git init Tests
+   66  echo hello.txt
+   67  git commit
+   68  git commit
+   69  git commit -m
+   70  git commit -m hello.txt
+   71  git add hello.txt
+   72  ls
+   73  cd test
+   74  cd Test
+   75  cd projects
+   76  ls
+   77  git init Test
+   78  ls
+   79  cd Test
+   80  ls
+   81  echo file 1
+   82  ls
+   83  echo python.py
+   84  ls
+   85  ls
+   86  git commit
+   87  git add ex1.py
+   88  git commit
+   89  git status
+   90  ec=xit
+   91  cd..
+   92  mkdir ~/COMP167
+   93  LS
+   94  CD PROJECTS
+   95  cd projects
+   96  git clone https://github.com/dumisani143/Test.git
+   97  ping 8.8.8.8
+   98  git clone https://github.com/dumisani143/Test.git
+   99  git clone https://github.com/dumisani143/Test.git
+  100  ls
+  101  cd projects
+  102  ls
+  103  git clone https://github.com/dumisani143/Test.git
+  104  ls
+  105  cd projects
+  106  git clone https://github.com/Umuzi-org/Dumisani-Lukhele-606-tilde-project-tutorial-how-repo-projects-work-.git
+  107  pwd
+  108  ls
+  109  ls/projects
+  110  ls/project
+  111  ls /project
+  112  ls /projects
+  113  ls /projects/
+  114  ls /source
+  115  sudo ls /projects
+  116  clear'
+  117  clear
+  118  exit
+  119  clear
+  120  git clone https://github.com/Umuzi-org/Dumisani-Lukhele-606-tilde-project-tutorial-how-repo-projects-work-.git
+  121  ls
+  122  cd projects
+  123  git clone https://github.com/Umuzi-org/Dumisani-Lukhele-606-tilde-project-tutorial-how-repo-projects-work-.git
+  124  ls
+  125  git clone https://github.com/dumisani143/Test.git
+  126  ls
+  127  cd Test
+  128  ls
+  129  README.MD
+  130  vi+ README.MD
+  131  VI README.MD
+  132  ls
+  133  cd projects
+  134  ls
+  135  cd Test
+  136  ls
+  137  git add
+  138  git add README.MD
+  139  git status
+  140  git commit -a
+  141  git init
+  142  git status
+  143  ls
+  144  git commit -m first command commit
+  145  git commit -m "first command commit"
+  146  git remote Test https://github.com/dumisani143/Test.git
+  147  git remote add Test https://github.com/dumisani143/Test.git
+  148  git push -u Test master
+  149  git push -u origin master
+  150  git add .
+  151  git push origin master
+  152  clear
+  153  ls
+  154  git ad --all
+  155  git add --all
+  156  git commit -m "command commit"
+  157  git commit -a README.MD
+  158  CLEAR
+  159  git clone https://github.com/An0nUD4Y/blackeye.git
+  160  git clone https://github.com/dumisani143/Test.git
+  161  cd projects
+  162  cd Test
+  163  git checkout main
+  164  git push
+  165  git log
+  166  git config --global --unset-all remote.origin.proxy
+  167  git push
+  168  git config --global http.sslVerify false
+  169  git push
+  170  git config --global --add remote.origin.proxy "100.93.61.88"
+  171  git push
+  172  git push
+  173  git config --global --add remote.origin.proxy "100.93.61.88 port 8080"
+  174  git push
+  175   git config --global http.sslBackend "openssl"
+  176  git push
+  177  git config --global --unset-all remote.origin.proxy
+  178  git push
+  179  git config http.proxy
+  180  http://dumisani143:Combustion@123 @ 100.93.61.88 8080
+  181  git config http.proxy http://dumisani143:Combustion@123 @ 100.93.61.88 8080
+  182  git config --global http://dumisani143:Combustion@123 @ 100.93.61.88:8080
+  183  git config --global http://dumisani143 @ 100.93.61.88:8080
+  184  git clone https://github.com/dumisani143/Test.git
+  185  ls
+  186  cd tests
+  187  ls
+  188  git clone https://github.com/dumisani143/Test.git
+  189  git clone https://github.com/Umuzi-org/Dumisani-Lukhele-429-bootcamp-writing-assignment-markdown.git
+  190  ls
+  191  cd  Dumisani-Lukhele-429-bootcamp-writing-assignment-markdown/
+  192  ls
+  193  git status
+  194  ls
+  195  clear
+  196  git status
+  197  git add .
+  198  gi status
+  199  git status
+  200  git commit -m 'writting assignment markdown files'
+  201  git status
+  202  clear
+  203  git log
+  204  git push
+  205  git push
+  206  git push
+  207  ls
+  208  cd Dumisani-Lukhele-429-bootcamp-writing-assignment-markdown/
+  209  ls
+  210  git status
+  211  git add 10.md
+  212  git status
+  213  git commit -a
+  214  cd projects
+  215  ls
+  216  git clone https://github.com/Umuzi-org/Dumisani-Lukhele-429-bootcamp-writing-assignment-markdown.git
+  217  ls
+  218  cd Dumisani-Lukhele-429-bootcamp-writing-assignment-markdown/ 
+  219  ls
+  220  git status
+  221  git add .
+  222  git commit -m 'writting assignment markdown files'
+  223  git status
+  224  git log
+  225  git push
+  226  clear
+  227  exit
+  228  cd progects
+  229  cd projects
+  230  git clone https://github.com/Umuzi-org/Dumisani-Lukhele-429-bootcamp-writing-assignment-markdown.git
+  231  cd projects
+  232  ls
+  233  cd Test
+  234  ls
+  235  git status
+  236  clear
+  237  git status
+  238  git add git commands.md
+  239  git add .
+  240  ls
+  241  git status
+  242  git commit -m 'git commandline push'
+  243  git push
+  244  git log
+  245  git checkout efd89f4a1eb00ccb8fc72e7a926adc7c22373266
+  246  git switch -c sample
+  247  touch REadme.md
+  248  ls
+  249  ls -a
+  250  git status
+  251  touch dumisani.md
+  252  kls -a
+  253  ls -a
+  254  git log
+  255  git status
+  256  gid add dumisani.md
+  257  git add dumisani.md
+  258  git status
+  259  git commit -m 'initial commit'
+  260  git push
+  261  git push --set-upstream origin sample
+  262  git push
+  263  cd ..
+  264  ls
+  265  cd git-basic-ecersises
+  266  cd git-basic-excersises
+  267  ls
+  268  git init
+  269  ls
+  270  ls -a
+  271  clear
+  272  git status
+  273  touch README.md
+  274  ls
+  275  git status
+  276  git log
+  277  git add
+  278  clear
+  279  git add README.md
+  280  git status
+  281  git rm --catched README.md
+  282  git rm README.md
+  283  clear
+  284  git status
+  285  git rm --catched README.md
+  286  git rm --catched <README.md>
+  287  git rm --catched README.md
+  288  clear
+  289  git rm -catched README.md
+  290  git reset README.md
+  291  git status
+  292  git add README.md
+  293  git commit -m 'Initial commit'
+  294  git log
+  295  nano README.md
+  296  nano README.md
+  297  cat README.md
+  298  git status
+  299  git add README.md
+  300  git commit -m 'second commit'
+  301  git log
+  302  nano README.md
+  303  git add README.md
+  304  git commit -m 'third commit'
+  305  clear
+  306  git log
+  307  git checkout fb1447cc10236060b489312a9dc3b3e9f6db782d 
+  308  cat README.md
+  309  git checkout main
+  310  git checkout main
+  311  cd ..
+  312  ls
+  313  cd git git-basic-excersises
+  314  cd git-basic-excersises
+  315  ls
+  316  clear
+  317  git checkout main
+  318  git checkout Main
+  319  cd ..
+  320  cd git-basic-excersises
+  321  git checkout master
+  322  ls
+  323  clear
+  324  cat README.md
+  325  git branch
+  326  git branch milshake-flavours
+  327  git branch
+  328  git branch milkshake-flavors
+  329  clear
+  330  git branch
+  331  git rm milkshake-flavours
+  332  git branch -d milkshake-flavours
+  333  git branch
+  334  clear
+  335  git branch
+  336  git branch -d milshake-flavours
+  337  git branch
+  338  clear
+  339  git checkout milkshake-flavours
+  340  clear
+  341  git branch
+  342  git checkout milkshake-flavours
+  343  git checkout milkshake-flavors
+  344  clear
+  345  git -d milkshake-flavors
+  346  clear
+  347  git branch -d milkshake-flavors
+  348  git checkout main
+  349  git checkout mmaster
+  350  git checkout master
+  351  clear
+  352  git branch -d milkshake-flavors
+  353  clear
+  354  git branch milkshake-flavours
+  355  git chckout milkshake-flavours
+  356  clear
+  357  git checkout milkshake-flavours
+  358  clera
+  359  clear
+  360  git branch
+  361  nano milkshakes.md
+  362  cat milkshakes
+  363  cat milkshakes.md
+  364  clear
+  365  git status
+  366  git add milkshakes.md
+  367  git status
+  368  git commit -m 'added initial flavours'
+  369  clear
+  370  git log
+  371  git checkout master
+  372  ls
+  373  ls -a
+  374  clear
+  375  git log
+  376  clear
+  377  git branch history
+  378  git branch
+  379  clear
+  380  git checkout history
+  381  git log
+  382  history >history.txt
